@@ -22,5 +22,5 @@
   <a href="https://www.linkedin.com/in/yan-leal-b621b0190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Kosmoss2/Kosmoss2/blob/output/github-contribution-grid-snake.svg)
-
+## Obrigado pela sua visita 
 </div>
